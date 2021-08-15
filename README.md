@@ -6,6 +6,10 @@ Controls
 ========
 Click a cell to activate it and click again to deactivate it. Press any key to pause the simulation.
 
+Requirements
+============
+SFML
+
 Build Procedures
 ================
 ```g++ life.cpp -o life```
