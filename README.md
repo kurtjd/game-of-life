@@ -4,7 +4,7 @@ A basic implementation of John Conway's Game of Life, written in C++. I made thi
 
 Controls
 ========
-Click a cell to activate it and click again to deactivate it. Press any key to pause the simulation.
+Click a cell to activate it and click again to deactivate it. Press any key to pause or unpause the simulation.
 
 Requirements
 ============
