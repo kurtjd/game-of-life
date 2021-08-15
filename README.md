@@ -14,7 +14,7 @@ Requirements
 
 Build Procedures
 ================
-```g++ life.cpp -o life```
+```g++ life.cpp -lsfml-graphics -lsfml-window -lsfml-system -o life```
 
 Run
 ===
