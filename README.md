@@ -4,11 +4,13 @@ A basic implementation of John Conway's Game of Life, written in C++. I made thi
 
 Controls
 ========
-Click a cell to activate it and click again to deactivate it. Press any key to pause or unpause the simulation.
+* Click a cell to activate it and click again to deactivate it.
+* Press the enter key to run or pause the simulation.
+* Use the up and down arrow keys to change the speed of the simulation.
 
 Requirements
 ============
-SFML
+* SFML
 
 Build Procedures
 ================
